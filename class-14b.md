@@ -1,6 +1,6 @@
 # Code 201
 
-[PREVIOUS](https://dinaalsaid.github.io/reading-notes/class-14a) &nbsp;[HOME](https://dinaalsaid.github.io/reading-notes/)  
+[PREVIOUS](https://dinaalsaid.github.io/code201reading/class-14a) &nbsp;[HOME](https://dinaalsaid.github.io/reading-notes/)  
 
 ## Team
 

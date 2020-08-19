@@ -1,6 +1,6 @@
 # Code 201
 
-[PREVIOUS](https://dinaalsaid.github.io/reading-notes/class-10) &nbsp;[HOME](https://dinaalsaid.github.io/reading-notes/)  &nbsp; [NEXT](https://dinaalsaid.github.io/reading-notes/class-12)
+[PREVIOUS](https://dinaalsaid.github.io/code201reading/class-10) &nbsp;[HOME](https://dinaalsaid.github.io/reading-notes/)  &nbsp; [NEXT](https://dinaalsaid.github.io/code201reading/class-12)
 
 ## images
 

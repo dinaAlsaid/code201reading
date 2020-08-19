@@ -1,6 +1,6 @@
 # Code 201
 
-[PREVIOUS](https://dinaalsaid.github.io/reading-notes/class-09) &nbsp;[HOME](https://dinaalsaid.github.io/reading-notes/)  &nbsp; [NEXT](https://dinaalsaid.github.io/reading-notes/class-11)
+[PREVIOUS](https://dinaalsaid.github.io/code201reading/class-09) &nbsp;[HOME](https://dinaalsaid.github.io/reading-notes/)  &nbsp; [NEXT](https://dinaalsaid.github.io/code201reading/class-11)
 
 ## error handling and debugging
 
